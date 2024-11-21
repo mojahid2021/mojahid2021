@@ -23,7 +23,7 @@ Hi, I’m **[Your Name]**! A passionate **[Developer | Designer | Data Enthusias
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
 ### 🛠️ Tools & Platforms
-![Android Studio](https://img.shields.io/badge/-Android_Studio-007ACC?logo=androidstudio&logoColor=white&style=flat-square)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-007ACC?logo=androidstudio&logoColor=&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
@@ -37,7 +37,7 @@ Hi, I’m **[Your Name]**! A passionate **[Developer | Designer | Data Enthusias
 | 🏆 **Contributions**       | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mojahid2021&theme=radical) |
 | 💡 **Top Languages**       | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=radical) |
 | 📊 **Overall Stats**       | ![Stats](https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical) |
-| 🚀 **Contribution Graph**  | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?mojahid2021=yourusername&theme=radical) |
+| 🚀 **Contribution Graph**  | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mojahid2021&theme=radical) |
 
 ---
 
