@@ -1,11 +1,11 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Profile Banner](https://yourbannerlink.com/banner.png)
+<!-- ![Profile Banner](https://yourbannerlink.com/banner.png) -->
 
 ---
 
 ## 🎯 About Me
-Hi, I’m **Mojahidul Islam**! A passionate **Android App Developer** who creates efficient, user-friendly, and high-performing mobile applications. I thrive on problem-solving, innovation, and continuous learning.
+Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates efficient, user-friendly, and high-performing mobile applications. I thrive on problem-solving, innovation, and continuous learning.
 
 - 🌍 **Location**: Dhaka, Bangladesh  
 - 📚 **Education**: B.Sc in Computer Science & Engineering from Daffodil International University  
