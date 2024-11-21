@@ -7,11 +7,11 @@
 ## 🎯 About Me
 Hi, I’m **[Your Name]**! A passionate **[Developer | Designer | Data Enthusiast]** who loves crafting elegant solutions to complex problems. I’m driven by curiosity, creativity, and a desire to learn.
 
-- 🌍 **Location**: [City, Country]  
-- 📚 **Education**: [Degree, Field of Study] from [University]  
-- 🧠 **Currently Learning**: [Technology/Skill]  
-- 🚀 **Goals for 2024**: [Your Goals]  
-- 🥂 **Fun Fact**: [Your Fun Fact]  
+- 🌍 **Location**: Dhaka, Bangladesh
+- 📚 **Education**: B.Sc, Computer Science & Engineering from Daffodil International University
+- 🧠 **Currently Learning**: Android App Developing. 
+- 🚀 **Goals for 2024**: 
+- 🥂 **Fun Fact**:
 
 ---
 
@@ -32,10 +32,10 @@ Hi, I’m **[Your Name]**! A passionate **[Developer | Designer | Data Enthusias
 ## 📈 GitHub Analytics
 | Metric                     | Stats                                   |
 |----------------------------|-----------------------------------------|
-| 🏆 **Contributions**       | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical) |
-| 💡 **Top Languages**       | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) |
-| 📊 **Overall Stats**       | ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) |
-| 🚀 **Contribution Graph**  | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical) |
+| 🏆 **Contributions**       | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mojahid2021&theme=radical) |
+| 💡 **Top Languages**       | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=radical) |
+| 📊 **Overall Stats**       | ![Stats](https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical) |
+| 🚀 **Contribution Graph**  | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?mojahid2021=yourusername&theme=radical) |
 
 ---
 
