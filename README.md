@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Md Mojahid!
 
 ### 🚀 About Me
 I’m a [developer/data scientist/enthusiast] passionate about [tech, coding, etc.].
@@ -8,7 +8,7 @@ I’m a [developer/data scientist/enthusiast] passionate about [tech, coding, et
 - Tools: ![VS Code](https://img.shields.io/badge/-VS_Code-green)
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical)
 
 ### 🌟 Featured Repositories
 - [Project 1](https://github.com/yourusername/project1)
