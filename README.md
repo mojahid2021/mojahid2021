@@ -48,7 +48,7 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 <p><img align="center" src="https://streak-stats.demolab.com/?user=himel-tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
 --->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himel-tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mojahid2021&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="mojahid2021" /></p>
 </div>
 <br>
 <br>
