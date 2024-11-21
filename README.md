@@ -41,9 +41,9 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/mojahid2021">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
 
