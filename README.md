@@ -23,9 +23,11 @@ Hi, I’m **[Your Name]**! A passionate **[Developer | Designer | Data Enthusias
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
 ### 🛠️ Tools & Platforms
+![Android Studio](https://img.shields.io/badge/-Android_Studio-007ACC?logo=androidstudio&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+
 
 ---
 
