@@ -5,29 +5,34 @@
 ---
 
 ## 🎯 About Me
-Hi, I’m **Mojahidul Islam**! A passionate **Developer and Data Enthusiast** who loves crafting elegant solutions to complex problems. I’m driven by curiosity, creativity, and a desire to learn.
+Hi, I’m **Mojahidul Islam**! A passionate **Android App Developer** who creates efficient, user-friendly, and high-performing mobile applications. I thrive on problem-solving, innovation, and continuous learning.
 
 - 🌍 **Location**: Dhaka, Bangladesh  
 - 📚 **Education**: B.Sc in Computer Science & Engineering from Daffodil International University  
-- 🧠 **Currently Learning**: Android App Development  
-- 🚀 **Goals for 2024**: Build impactful open-source projects, enhance mobile development skills, and contribute to AI-driven applications.  
-- 🥂 **Fun Fact**: I believe debugging is an adventure, not a chore!
+- 🧠 **Currently Learning**: Advanced Android Development with Jetpack Compose  
+- 🚀 **Goals for 2024**: Build industry-standard Android apps, contribute to open-source mobile projects, and explore Kotlin Multiplatform development.  
+- 🥂 **Fun Fact**: My debugging skills are as sharp as my coffee brewing techniques!
 
 ---
 
 ## 💼 Skills and Tools
 
-### 🖥️ Programming & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+### 💻 Programming & Frameworks
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![XML](https://img.shields.io/badge/-XML-8C8C8C?style=flat-square)
 
-### 🛠️ Tools & Platforms
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+### 📱 Android Development
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat-square)
+![Room](https://img.shields.io/badge/-Room-FF5733?logo=sqlite&logoColor=white&style=flat-square)
+![Retrofit](https://img.shields.io/badge/-Retrofit-009688?logo=android&logoColor=white&style=flat-square)
+
+### 🔧 Tools & Platforms
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
 
 ---
 
@@ -44,15 +49,15 @@ Hi, I’m **Mojahidul Islam**! A passionate **Developer and Data Enthusiast** wh
 
 ## 🌟 Featured Projects
 
-### 🚀 [**My Portfolio Website**](https://github.com/mojahid2021/portfolio)
-- **Description**: A responsive and modern portfolio showcasing my projects and achievements.  
-- **Tech Stack**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)  
-- **Demo**: [Live Demo](https://yourportfoliolink.com)
+### 🚀 [**Weather App**](https://github.com/mojahid2021/weather-app)
+- **Description**: A sleek and responsive Android app that provides real-time weather forecasts using OpenWeatherMap API.  
+- **Tech Stack**: ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Retrofit](https://img.shields.io/badge/-Retrofit-009688?logo=android&logoColor=white&style=flat-square) ![Room](https://img.shields.io/badge/-Room-FF5733?logo=sqlite&logoColor=white&style=flat-square)  
+- **Demo**: [Live APK](https://yourapkdemo.com)
 
-### 🛠️ [**E-commerce App**](https://github.com/mojahid2021/ecommerce-app)
-- **Description**: A full-stack e-commerce application with a secure payment gateway.  
-- **Tech Stack**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
-- **Demo**: [Live Demo](https://yourprojectdemo.com)
+### 🛠️ [**Expense Tracker**](https://github.com/mojahid2021/expense-tracker)
+- **Description**: A feature-rich Android app to manage expenses, budgets, and financial insights with local storage.  
+- **Tech Stack**: ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)  
+- **Demo**: [Live APK](https://yourapkdemo.com)
 
 ---
 
