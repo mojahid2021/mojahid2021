@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile!
+# Hi 👋, I'm Md Mojahid!
 
 <!-- ![Profile Banner](https://yourbannerlink.com/banner.png) -->
 
@@ -35,6 +35,24 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
 
 ---
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<div class="stats" align="center">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=algolia&border_radius=20&locale=en" alt="mojahid2021" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mojahid2021&theme=algolia&border_radius=20&" alt="mojahid2021" /></p>
+<!---
+<p><img align="center" src="https://streak-stats.demolab.com/?user=himel-tasrif&theme=algolia&border_radius=20&" alt="himel-tasrif" /></p>
+--->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himel-tasrif&show_icons=true&theme=algolia&border_radius=20&locale=en&layout=compact&card_width=400" alt="himel-tasrif" /></p>
+</div>
+<br>
+<br>
+
 
 ## 📈 GitHub Analytics
 
