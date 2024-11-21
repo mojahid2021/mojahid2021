@@ -33,12 +33,12 @@ Hi, I’m **Mojahidul Islam**! A passionate **Developer and Data Enthusiast** wh
 
 ## 📈 GitHub Analytics
 
-| Metric                     | Stats                                   |
-|----------------------------|-----------------------------------------|
-| 🏆 **Contributions**       | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mojahid2021&theme=radical) |
-| 💡 **Top Languages**       | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=radical) |
-| 📊 **Overall Stats**       | ![Stats](https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical) |
-| 🚀 **Contribution Graph**  | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mojahid2021&theme=radical) |
+| Metric                       | Stats                                   |
+|------------------------------|-----------------------------------------|
+| 🏆 **Contributions**         | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mojahid2021&theme=radical) |
+| 💡 **Top Languages**         | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=radical) |
+| 📊 **Overall Stats**         | ![Stats](https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical) |
+| 🚀 **Contribution Graph**    | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mojahid2021&theme=radical) |
 
 ---
 
