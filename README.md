@@ -35,9 +35,9 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
 
 ---
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📈 GitHub Analytics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<!--- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
 
 <div class="stats" align="center">
 
@@ -52,9 +52,6 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 </div>
 <br>
 <br>
-
-
-## 📈 GitHub Analytics
 
 ---
 
