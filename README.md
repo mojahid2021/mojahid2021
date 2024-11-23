@@ -56,13 +56,6 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 
 ## 📈 GitHub Analytics
 
-| Metric                       | Stats                                   |
-|------------------------------|-----------------------------------------|
-| 🏆 **Contributions**         | ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mojahid2021&theme=radical) |
-| 💡 **Top Languages**         | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=radical) |
-| 📊 **Overall Stats**         | ![Stats](https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=radical) |
-| 🚀 **Contribution Graph**    | ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mojahid2021&theme=radical) |
-
 ---
 
 ## 🌟 Featured Projects
