@@ -7,14 +7,6 @@
 ## 🎯 About Me
 Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates efficient, user-friendly, and high-performing mobile applications. I thrive on problem-solving, innovation, and continuous learning.
 
-- 🌍 **Location**: Dhaka, Bangladesh  
-- 📚 **Education**: B.Sc in Computer Science & Engineering from Daffodil International University  
-- 🧠 **Currently Learning**: Advanced Android Development with Jetpack Compose  
-- 🚀 **Goals for 2024**: Build industry-standard Android apps, contribute to open-source mobile projects, and explore Kotlin Multiplatform development.  
-- 🥂 **Fun Fact**: My debugging skills are as sharp as my coffee brewing techniques!
-
----
-
 ## 💼 Skills and Tools
 
 ### 💻 Programming & Frameworks
@@ -33,13 +25,6 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
-
----
-
-### Github Statistic
-
-
-
 
 <h2 style="color: #44AEFB">📈 GitHub Analytics</h2>
 <div>
@@ -71,13 +56,6 @@ Hi, I’m **Md Mojahid**! A passionate **Android App Developer** who creates eff
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/mojahid2021)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FFA500?logo=firefox&logoColor=white&style=flat-square)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aammojahid@gmail.com)
-
----
-
-## 🕰️ Recent Activity
-💻 Pushed `X Commits` to [Repository](https://github.com/mojahid2021/repo)  
-📃 Opened [Issue](https://github.com/mojahid2021/repo/issues/1)  
-✨ Starred [Repository](https://github.com/username/repo)  
 
 ---
 
