@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Mojahid!
 
-**Android Developer | Java & Kotlin Specialist | Server Administrator**
+**Android Developer | Java & Kotlin Developer | Server Administrator**
 
 ---
 
