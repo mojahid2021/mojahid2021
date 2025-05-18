@@ -9,6 +9,7 @@
 I'm a passionate Android developer with a strong command of **Java**, **Kotlin**, and server-side infrastructure. I specialize in building high-performance, user-focused mobile apps using clean architecture, efficient UI design, and modern development practices.
 
 With hands-on experience in both front-end mobile development and backend server management, I bring a full-stack mindset to Android projects. I'm driven by curiosity, continuous learning, and the challenge of turning complex problems into elegant, scalable solutions.
+
 ---
 
 ## 💼 Skills and Tools
