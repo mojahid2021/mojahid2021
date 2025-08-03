@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Md Mojahid!
 
-**Android Developer | Java & Kotlin Developer | Server Administrator**
+**Android Developer | Java | Kotlin | Compose Multiplatform (KMP) | Server Administrator**
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate Android developer with a strong command of **Java**, **Kotlin**, and server-side infrastructure. I specialize in building high-performance, user-focused mobile apps using clean architecture, efficient UI design, and modern development practices.
+I'm a passionate Android developer with a strong command of **Java**, **Kotlin**, and server-side infrastructure. I specialize in building high-performance, user-focused mobile apps using clean architecture, efficient UI design, and modern development practices — including **Jetpack Compose** and **Compose Multiplatform (KMP)** for building cross-platform user interfaces.
 
-With hands-on experience in both front-end mobile development and backend server management, I bring a full-stack mindset to Android projects. I'm driven by curiosity, continuous learning, and the challenge of turning complex problems into elegant, scalable solutions.
+With hands-on experience in both front-end mobile development and backend server management, I bring a full-stack mindset to Android and multiplatform projects. I'm driven by curiosity, continuous learning, and the challenge of turning complex problems into elegant, scalable solutions.
 
 ---
 
@@ -17,10 +17,11 @@ With hands-on experience in both front-end mobile development and backend server
 ### 💻 Programming & Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+![Compose Multiplatform (KMP)](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?logo=kotlin&logoColor=white&style=flat-square)
 ![XML](https://img.shields.io/badge/-XML-8C8C8C?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-### 📱 Android Development
+### 📱 Android & Multiplatform Development
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat-square)
 ![Room](https://img.shields.io/badge/-Room-FF5733?logo=sqlite&logoColor=white&style=flat-square)
