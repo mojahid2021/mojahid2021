@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Mojahid!
 
-**Android Developer | Java | Kotlin | Compose Multiplatform (KMP) | Server Administrator**
+**Android Developer | Java | Kotlin | Compose Multiplatform (KMP) | AI/ML**
 
 ---
 
