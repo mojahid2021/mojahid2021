@@ -1,6 +1,13 @@
-# 👋 Hi, I'm Md Mojahid!
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A4F5&left=true&vLeft=true&width=600&lines=Hi+👋+I'm+Md+Mojahid!;Android+Developer;Java+%7C+Kotlin+Expert;Compose+Multiplatform+(KMP);AI%2FML+Enthusiast;Full-Stack+Software+Developer" alt="Typing SVG" />
+</div>
 
 **Android Developer | Java | Kotlin | Compose Multiplatform (KMP) | AI/ML**
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=mojahid2021&color=42a4f5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mojahid2021?label=Followers&style=flat-square&color=42a4f5" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mojahid2021?label=Stars&style=flat-square&color=42a4f5" alt="GitHub Stars" />
+</div>
 
 ---
 
