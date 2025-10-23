@@ -21,31 +21,42 @@ With hands-on experience in both front-end mobile development and backend server
 
 ## 💼 Skills and Tools
 
-### 💻 Programming & Frameworks
+### 💻 Programming Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
-![Compose Multiplatform (KMP)](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?logo=kotlin&logoColor=white&style=flat-square)
-![XML](https://img.shields.io/badge/-XML-8C8C8C?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![XML](https://img.shields.io/badge/-XML-8C8C8C?style=flat-square)
 
-### 📱 Android & Multiplatform Development
+### 📱 Mobile & Multiplatform Development
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat-square)
+![Compose Multiplatform (KMP)](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?logo=kotlin&logoColor=white&style=flat-square)
 ![Room](https://img.shields.io/badge/-Room-FF5733?logo=sqlite&logoColor=white&style=flat-square)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-009688?logo=android&logoColor=white&style=flat-square)
 ![LiveData](https://img.shields.io/badge/-LiveData-1976D2?logo=android&logoColor=white&style=flat-square)
 ![ViewModel](https://img.shields.io/badge/-ViewModel-512DA8?logo=android&logoColor=white&style=flat-square)
 
-### 🖥️ Backend & Server
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+### 🖥️ Backend & Server Technologies
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?logo=spring&logoColor=white&style=flat-square)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 ### 🔧 Tools & Platforms
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
