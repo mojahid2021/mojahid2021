@@ -1,83 +1,256 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42A4F5&left=true&vLeft=true&width=600&lines=Hi+👋+I'm+Md+Mojahid!;Android+Developer;Java+%7C+Kotlin+Expert;Compose+Multiplatform+(KMP);AI%2FML+Enthusiast;Full-Stack+Software+Developer" alt="Typing SVG" />
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███╗   ███╗ ██████╗      ██╗ ██████╗ ██╗  ██╗██╗██████╗                 ║
+║   ████╗ ████║██╔═══██╗     ██║██╔═══██╗██║  ██║██║██╔══██╗                ║
+║   ██╔████╔██║██║   ██║     ██║██║   ██║███████║██║██║  ██║                ║
+║   ██║╚██╔╝██║██║   ██║██   ██║██║   ██║██╔══██║██║██║  ██║                ║
+║   ██║ ╚═╝ ██║╚██████╔╝╚█████╔╝╚██████╔╝██║  ██║██║██████╔╝                ║
+║   ╚═╝     ╚═╝ ╚═════╝  ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Mobile+Architect;Java+%2B+Kotlin+%2B+Compose+Expert;Building+Cross-Platform+Solutions;AI%2FML+Integration+Specialist;Full-Stack+Software+Engineer" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mojahid2021&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mojahid2021?label=FOLLOWERS&style=for-the-badge&color=00ff41&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/mojahid2021?label=TOTAL+STARS&style=for-the-badge&color=00ff41&logo=github" alt="GitHub Stars" />
+</p>
+
 </div>
 
-**Android Developer | Java | Kotlin | Compose Multiplatform (KMP) | AI/ML**
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mojahid2021&color=42a4f5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mojahid2021?label=Followers&style=flat-square&color=42a4f5" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/mojahid2021?label=Stars&style=flat-square&color=42a4f5" alt="GitHub Stars" />
+<br/>
+
+## `$ whoami`
+
+```kotlin
+val developer = object : AndroidDeveloper {
+    override val name = "Md Mojahid"
+    override val role = "Mobile & Full-Stack Engineer"
+    override val location = "Earth 🌍"
+    
+    override val expertise = listOf(
+        "Android Native Development",
+        "Compose Multiplatform (KMP)",
+        "Clean Architecture & MVVM",
+        "Backend Infrastructure",
+        "AI/ML Integration"
+    )
+    
+    override val currentFocus = """
+        Building scalable cross-platform applications with 
+        modern Android development practices and exploring 
+        the intersection of mobile tech and AI/ML
+    """.trimIndent()
+    
+    override val philosophy = """
+        Code is poetry. Every line should be intentional, 
+        elegant, and solve real problems.
+    """.trimIndent()
+}
+```
+
+<div align="center">
+
+### 💡 *"Turning complex problems into elegant solutions, one commit at a time"*
+
 </div>
 
 ---
 
-## 🎯 About Me
+## `$ cat tech_stack.json`
 
-I'm a passionate Android developer with a strong command of **Java**, **Kotlin**, and server-side infrastructure. I specialize in building high-performance, user-focused mobile apps using clean architecture, efficient UI design, and modern development practices — including **Jetpack Compose** and **Compose Multiplatform (KMP)** for building cross-platform user interfaces.
+```json
+{
+  "languages": {
+    "primary": ["Kotlin", "Java"],
+    "secondary": ["TypeScript", "JavaScript", "XML"]
+  },
+  "mobile_development": {
+    "platforms": ["Android Native", "Compose Multiplatform (KMP)"],
+    "ui_frameworks": ["Jetpack Compose", "XML Views"],
+    "architecture": ["MVVM", "Clean Architecture", "MVI"],
+    "jetpack_components": [
+      "Room", "ViewModel", "LiveData", "Navigation",
+      "WorkManager", "Hilt/Dagger", "DataStore"
+    ],
+    "networking": ["Retrofit", "OkHttp", "Ktor Client"],
+    "async": ["Coroutines", "Flow", "RxJava"]
+  },
+  "backend_stack": {
+    "frameworks": ["Spring Boot", "Spring MVC", "Fastify"],
+    "runtime": ["Node.js", "JVM"],
+    "servers": ["NGINX", "Apache"],
+    "systems": ["Linux"]
+  },
+  "databases": {
+    "sql": ["PostgreSQL", "MySQL", "SQLite"],
+    "nosql": ["MongoDB", "Room (Android)"]
+  },
+  "tools_and_platforms": {
+    "version_control": ["Git", "GitHub"],
+    "ide": ["Android Studio", "IntelliJ IDEA"],
+    "build_tools": ["Gradle", "Maven"],
+    "cloud_services": ["Firebase", "Google Cloud"],
+    "testing": ["JUnit", "Espresso", "Mockk"],
+    "api_tools": ["Postman", "Swagger"]
+  }
+}
+```
 
-With hands-on experience in both front-end mobile development and backend server management, I bring a full-stack mindset to Android and multiplatform projects. I'm driven by curiosity, continuous learning, and the challenge of turning complex problems into elegant, scalable solutions.
+<details>
+<summary><b>🎯 View Badges & Certifications</b></summary>
+<br/>
+
+**Languages & Frameworks**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Mobile Development**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Backend & Databases**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
 
 ---
 
-## 💼 Skills and Tools
+## `$ git log --all --graph --pretty=format:'%h %s'`
 
-### 💻 Programming Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![XML](https://img.shields.io/badge/-XML-8C8C8C?style=flat-square)
+<div align="center">
 
-### 📱 Mobile & Multiplatform Development
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat-square)
-![Compose Multiplatform (KMP)](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?logo=kotlin&logoColor=white&style=flat-square)
-![Room](https://img.shields.io/badge/-Room-FF5733?logo=sqlite&logoColor=white&style=flat-square)
-![Retrofit](https://img.shields.io/badge/-Retrofit-009688?logo=android&logoColor=white&style=flat-square)
-![LiveData](https://img.shields.io/badge/-LiveData-1976D2?logo=android&logoColor=white&style=flat-square)
-![ViewModel](https://img.shields.io/badge/-ViewModel-512DA8?logo=android&logoColor=white&style=flat-square)
+<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mojahid2021&theme=dark&background=0d1117&border=30363d&stroke=00ff41&fire=00ff41&ring=00ff41&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00ff41&dates=8b949e&currStreakLabel=00ff41&hide_border=true" alt="GitHub Streak Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=30363d&rank_icon=percentile&hide_border=true" alt="GitHub Stats" />
 
-### 🖥️ Backend & Server Technologies
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
-![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?logo=spring&logoColor=white&style=flat-square)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+</div>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-### 🔧 Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mojahid2021&theme=github-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+
+```
+  Total Contributions    │ ████████████████░░░░  Active Days
+  Code Reviews          │ ███████████░░░░░░░░░  Pull Requests  
+  Issue Resolution      │ █████████████████░░░  Projects Built
+  Community Engagement  │ ██████████████░░░░░░  Learning & Growth
+```
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=mojahid2021&theme=toonight&background=061821&border=0C1A25&stroke=42a4f5&fire=42a4f5&ring=42a4f5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=42a4f5&dates=40edab&currStreakLabel=42a4f5" width="50%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=codeSTACKr&rank_icon=percentile&bg_color=061821&icon_color=40edab&title_color=42a4f5" width="47%" />
+## `$ curl -X GET https://mojahid.dev/connect`
+
+<div align="center">
+
+```yaml
+response:
+  status: 200
+  message: "Connection successful! Let's build something amazing together."
+  channels:
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/mojahid2021"
+      badge: "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)"
+      
+    - name: "Twitter"
+      url: "https://twitter.com/mojahid2021"
+      badge: "![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)"
+      
+    - name: "Email"
+      url: "mailto:aammojahid@gmail.com"
+      badge: "![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)"
+      
+    - name: "Portfolio"
+      url: "#"
+      badge: "![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)"
+```
+
+<a href="https://linkedin.com/in/mojahid2021" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/mojahid2021" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:aammojahid@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5" width="38%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mojahid2021&theme=codeSTACKr&bg_color=061821&icon_color=40edab&title_color=42a4f5&hide_border=true&radius=16&line=42a4f5&point=40edab&area_color=40edab&color=40edab" width="59%" />
+
+---
+
+## `$ echo "Support my work"`
+
+<div align="center">
+
+If you find my work valuable and want to support my journey in building open-source projects and creating helpful content:
+
+<a href="https://buymeacoffee.com/mojahid.2021" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+<a href="https://github.com/sponsors/mojahid2021" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
+</a>
+
+```bash
+# Your support helps me to:
+$ maintain_open_source_projects()
+$ create_helpful_tutorials()
+$ contribute_to_community()
+$ explore_new_technologies()
+```
+
 </div>
 
-## 🗨️ Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/mojahid2021) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/mojahid2021) [![Portfolio](https://img.shields.io/badge/-Portfolio-FFA500?logo=firefox&logoColor=white&style=flat-square)](#) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aammojahid@gmail.com)
+---
 
-## 💖 Support My Work
+<div align="center">
 
-If you like what I do and want to support my journey:
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  "First, solve the problem. Then, write the code."             │
+│                                    - John Johnson               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FF813F?logo=buymeacoffee&logoColor=white&style=flat-square)](https://buymeacoffee.com/mojahid.2021)  [![Sponsor Me](https://img.shields.io/badge/-Sponsor-0A66C2?logo=githubsponsors&logoColor=white&style=flat-square)](https://github.com/sponsors/mojahid2021)
+### ⭐ If you like what I do, consider giving my repos a star!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
