@@ -2,14 +2,21 @@
 
 # Md Mojahid
 
-### Software Engineer | Mobile & Full-Stack Development
+### Backend Developer | System Analysis & Designer | Software Engineer
 
-Building scalable, cross-platform solutions with modern architecture patterns and best practices.
+Building scalable, robust backend systems with modern architecture patterns and best practices.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mojahid2021?label=Followers&style=flat-square&color=0366d6&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/mojahid2021?label=Stars&style=flat-square&color=0366d6&logo=github" alt="GitHub Stars" />
   <img src="https://komarev.com/ghpvc/?username=mojahid2021&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-blue?style=flat-square" alt="Open Source Love" />
+  <img src="https://img.shields.io/github/contributors/mojahid2021/mojahid2021?style=flat-square&color=0366d6" alt="Contributors" />
+  <img src="https://img.shields.io/github/last-commit/mojahid2021/mojahid2021?style=flat-square&color=0366d6" alt="Last Commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/mojahid2021/mojahid2021?style=flat-square&color=0366d6" alt="Commit Activity" />
 </p>
 
 </div>
@@ -18,26 +25,70 @@ Building scalable, cross-platform solutions with modern architecture patterns an
 
 ## About
 
-Software Engineer specializing in mobile and full-stack development with a focus on building robust, scalable applications. Experienced in native Android development, cross-platform solutions, and backend systems.
+Backend Developer and System Analyst specializing in designing and building robust, scalable backend systems and infrastructure. Experienced in backend development with TypeScript/Node.js and Spring Boot, system architecture design, DevOps practices, and mobile application development.
 
 **Core Competencies:**
-- Android Native Development & Jetpack Compose
-- Kotlin Multiplatform (KMP) for cross-platform solutions
+- Backend Development with TypeScript, Node.js & Spring Boot
+- System Analysis, Architecture Design & Database Optimization
+- DevOps & Cloud Infrastructure (Docker, Nginx, Cloudflare)
+- Linux System Administration (Debian, Ubuntu)
+- Android Native Development & Kotlin Multiplatform
 - Clean Architecture, MVVM, and MVI patterns
-- Backend infrastructure with Spring Boot and Node.js
+- Frontend Development (React, Vue.js)
 - AI/ML integration and implementation
 
-**Current Focus:** Developing enterprise-grade cross-platform applications using modern Android development practices and exploring ML-powered mobile experiences.
+**Current Focus:** Building enterprise-grade backend systems with TypeScript and modern DevOps practices, designing scalable microservices architectures, and optimizing cloud infrastructure.
 
 ---
 
 ## Technical Stack
 
-### Languages & Frameworks
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+### Primary Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Backend Frameworks:** Node.js/TypeScript • Express.js • NestJS • Fastify • Spring Boot • Spring MVC  
+**Databases:** PostgreSQL • MySQL • MongoDB • Redis • SQLite  
+**API Design:** RESTful APIs • GraphQL • WebSocket • gRPC  
+**ORM/ODM:** TypeORM • Prisma • Sequelize • Mongoose • Hibernate
+
+### DevOps & Cloud Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Containerization:** Docker • Docker Compose • Container Orchestration  
+**Web Servers:** Nginx • Apache • Reverse Proxy Configuration  
+**Linux Systems:** Debian • Ubuntu • CentOS • Shell Scripting  
+**Cloud Platforms:** AWS • Google Cloud Platform • Firebase • Cloudflare  
+**CI/CD:** GitHub Actions • Jenkins • GitLab CI
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Frontend Frameworks:** React • Vue.js • Next.js  
+**Styling:** TailwindCSS • Bootstrap • Material-UI • Sass
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -49,27 +100,18 @@ Software Engineer specializing in mobile and full-stack development with a focus
 **Networking:** Retrofit • OkHttp • Ktor Client  
 **Async Processing:** Coroutines • Flow • RxJava
 
-### Backend & Infrastructure
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Backend Frameworks:** Spring Boot • Spring MVC • Fastify  
-**Databases:** PostgreSQL • MySQL • SQLite • MongoDB • Room
-
-### Development Tools
+### Development Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Build & CI/CD:** Gradle • Maven  
-**Cloud Services:** Firebase • Google Cloud Platform  
-**Testing:** JUnit • Espresso • Mockk  
-**API Development:** Postman • Swagger
+**Version Control:** Git • GitHub • GitFlow  
+**Build Tools:** Gradle • Maven • npm • pnpm • Webpack  
+**Testing:** Jest • Mocha • JUnit • Espresso • Mockk  
+**API Development:** Postman • Swagger/OpenAPI • Insomnia  
+**Monitoring:** Prometheus • Grafana • New Relic
 
 ---
 
@@ -77,13 +119,28 @@ Software Engineer specializing in mobile and full-stack development with a focus
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292f&icon_color=0366d6&border_color=d0d7de&rank_icon=percentile&hide_border=false" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mojahid2021&show_icons=true&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292f&icon_color=0366d6&border_color=d0d7de&rank_icon=percentile&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mojahid2021&theme=default&background=ffffff&border=d0d7de&stroke=0366d6&fire=f97316&ring=0366d6&currStreakNum=24292f&sideNums=24292f&sideLabels=0366d6&dates=57606a&currStreakLabel=0366d6&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292f&border_color=d0d7de&hide_border=false&langs_count=8" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahid2021&layout=compact&theme=default&bg_color=ffffff&title_color=0366d6&text_color=24292f&border_color=d0d7de&hide_border=false&langs_count=10&hide=html,css" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mojahid2021&theme=default&utcOffset=6" alt="Productive Time" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mojahid2021&theme=github-light&bg_color=ffffff&color=0366d6&line=0366d6&point=24292f&area=true&hide_border=false" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mojahid2021&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+
 </div>
 
 ---
